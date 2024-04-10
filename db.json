@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 7
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "isInCart": true,
+      "id": 8
     }
   ]
 }
